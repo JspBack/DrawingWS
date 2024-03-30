@@ -11,7 +11,7 @@ npm run server
 cd ..
 cd client
 npm i
-npm run server
+npm run dev
 ```
 
 ## usage
